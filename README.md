@@ -2,6 +2,8 @@
 
 Простое приложение на C# Windows Forms, которое приветствует пользователя по имени.
 
+<img width="594" height="397" alt="Greeting App WinForms" src="https://github.com/user-attachments/assets/c8c1406a-85c1-4b7b-b08e-4808da4d060a" />
+
 ## Функциональность
 
 - Ввод имени в текстовое поле
